@@ -1,27 +1,27 @@
-#  **📱 Predict Mobile Phone Pricing**
+# 📱 Predict Mobile Phone Pricing
 
 This project predicts mobile phone pricing categories (low, medium, high, very high) based on various hardware features. It uses machine learning to classify phones into different price ranges.
 
 ---
 
-##  Features  
- **Predicts price category of a mobile phone**  
- **Uses Random Forest Classifier for accurate results**  
- **Scales features for better performance**  
- **Displays feature importance in price prediction**  
+## 🔹 Features  
+✅ **Predicts price category of a mobile phone**  
+✅ **Uses Random Forest Classifier for accurate results**  
+✅ **Scales features for better performance**  
+✅ **Displays feature importance in price prediction**  
 
 ---
 
-##  Technologies Used  
-- **Python**  Programming language  
-- **Pandas & NumPy**  Data handling  
-- **Seaborn & Matplotlib**  Data visualization  
-- **Scikit-Learn**  Machine learning  
-- **Google Colab**  Cloud execution  
+## 🛠 Technologies Used  
+- **Python** → Programming language  
+- **Pandas & NumPy** → Data handling  
+- **Seaborn & Matplotlib** → Data visualization  
+- **Scikit-Learn** → Machine learning  
+- **Google Colab** → Cloud execution  
 
 ---
 
-##  Dataset  
+## 📂 Dataset  
 The dataset is taken from `ujjwalr03/predict-mobile-phone-pricing` and contains features like:
 - **Battery Power**
 - **Bluetooth Availability**
@@ -37,7 +37,7 @@ The dataset is automatically fetched from GitHub.
 
 ---
 
-##  Steps to Run Locally  
+## 💻 Steps to Run Locally  
 
 1. **Clone the Repository**  
    ```bash
@@ -57,7 +57,7 @@ The dataset is automatically fetched from GitHub.
 
 ---
 
-##  Open in Google Colab  
+## 🔗 Open in Google Colab  
 Click below to open the notebook in **Google Colab**:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ujjwalr03/predict-mobile-phone-pricing/blob/main/predict-mobile-phone-pricing-colab.ipynb)  
@@ -69,7 +69,7 @@ Click below to open the notebook in **Google Colab**:
 
 ---
 
-##  License  
+## 📜 License  
 This project is open-source under the **MIT License**.  
 
 ---
