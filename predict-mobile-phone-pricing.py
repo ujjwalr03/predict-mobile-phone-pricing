@@ -8,15 +8,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 # Load the dataset
-file_path = "/mnt/data/dataset.csv"
+file_path = "dataset.csv"
 df = pd.read_csv(file_path)
-
-# Display basic dataset information
-print(df.info())
-print(df.describe())
-
-# Check for missing values
-print("Missing values:\n", df.isnull().sum())
 
 # Correlation heatmap
 plt.figure(figsize=(12, 8))
